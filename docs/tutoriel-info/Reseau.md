@@ -1,6 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
+
 
 # Introduction : C'est quoi internet ?
 ### Un réseau informatique (en anglais : data communication network ou DCN) est un ensemble d'équipements reliés entre eux pour échanger des informations.
@@ -12,7 +13,7 @@ Un reseau LAN ( Local Network Area) est un reseau dit local car il est ne peut e
 les une des autres , le reseau des ordinateurs de l'ecole est un LAN , ou bien les appareils d'une maison
 forment un reseau local. L'avantage est que la transmission des informations peut se faire directement entre les appareils
 ce qui est securisé mais sa portée est limitée. En voici un exemple:
-![LAN](./img/resea.jpeg)
+![LAN](/home/agheles/Documents/Ensea/year 1/Ares/ARES-Hub/docs/tutoriel-info/img/resea.jpeg)
 
 # 2 ) Comment deux machines communiquent ?
 Il existe plusieurs modèles qui ont un nombre de "couches" qui different et qui reposent sur l'encapsulation.
